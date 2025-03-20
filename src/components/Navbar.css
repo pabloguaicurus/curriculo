@@ -1,0 +1,23 @@
+#navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #041533;
+    color: #f4f5f6;
+    gap: 5rem;
+    box-shadow: 0 2px 5px #031028;
+}
+
+#navbar h2 a {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #f4f5f6;
+}
+
+#navbar h2 a:hover {
+    color: #9aa1ad;
+    scale: 1.1;
+}
+
