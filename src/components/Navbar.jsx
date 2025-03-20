@@ -7,7 +7,7 @@ const Navbar = () => {
     return (
     <div id="navbar">
         <h2>
-            <Link to="/">Inicio</Link>
+            <Link to="/curriculo">Inicio</Link>
         </h2>
         <h2>
             <Link to="/experiencia">Experiência</Link>
